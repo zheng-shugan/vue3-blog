@@ -4,8 +4,8 @@
 </div>
 </template>
 
-<script setup lang='ts'>
-const msg: string = 'Hello World'
+<script lang='ts'>
+
 </script>
 
 <style scoped>
